@@ -2,9 +2,9 @@
 <h1>
 Google Actions Getting Started Project
 </h1>
-This project has been created for developers, interested to getting started with Google Actions using Dialogflow and Google Actions Console
+This project has been created for developers, interested to getting started with Google Actions using Dialogflow and Google Actions Console.
 <h2>
-Intructions to use the repo
+Instructions to use the repo
 </h2>
 <p><br>
   1. Users can download the source code as zip from <a href="https://github.com/chefgs/aog_city_name_maker/archive/master.zip">here</a><br>
