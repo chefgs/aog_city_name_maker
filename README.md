@@ -9,7 +9,7 @@ Intructions to use the repo
 <p><br>
 1. Users can download the source code as zip<br>
   or <br> 
-  Install <a href="https://git-scm.com/downloads">Git Bash for Windows and use below commands to checkout code</a><br>
+  Install <a href="https://git-scm.com/downloads">Git Bash for Windows</a> and use below commands to checkout code<br>
 2. Use git command to checkout the code<br>
 git clone https://github.com/chefgs/aog_city_name_maker.git<br>
 cd aog_city_name_maker<br>
@@ -21,10 +21,10 @@ Source file details
 <p>
 agent.json - Dialog flow agent file<br>
 package.json - Agent version file<br>
-entities - Directory contains the Diagflow entity used in the agent<br>
-intent - Directory contains the Default intents and custom intents made for the Google actions conversations<br>
-Fulfillment Webhook - Directory contains the node.js source files. These files can be used to create the Fulfillment webhook for the agent.
-These webhooks are written in node.js and "Google Cloud functions" deployed in Google Firebase.<br>
+"entities" Directory - contains the Diagflow entity used in the agent<br>
+"intent" Directory - contains the Default intents and custom intents made for the Google actions conversations<br>
+"fulfillment_webhook" Directory - contains the node.js source files. These files can be used to create the Fulfillment webhook for the agent.
+These webhooks are written in node.js, uses "Google Cloud functions" deployed in Google Firebase.<br>
 </p>
 <h2>
   Tutorials and Guides
@@ -44,5 +44,6 @@ https://dialogflow.com/docs/agents<br>
 
 Dialogflow Fullfillment for Google Actions<br>
 https://dialogflow.com/docs/getting-started/integrate-services-actions-on-google<br>
-
+Source files are available in "fulfillment_webhook" Directory
 </p>
+
