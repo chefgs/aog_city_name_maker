@@ -1,0 +1,42 @@
+{
+  "id": "86392eff-74ae-4ebe-bec5-27e66b9d7bcc",
+  "parentId": "158ae3af-a0ee-437e-8898-9731463f610b",
+  "rootParentId": "158ae3af-a0ee-437e-8898-9731463f610b",
+  "name": "make_name_get_city_name - no",
+  "auto": true,
+  "contexts": [
+    "make_name_get_city_name-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "make_name_get_city_name.make_name_get_city_name-no",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9c65dd22-3742-4575-b78c-3c9e3a50a86a",
+          "required": false,
+          "dataType": "@yes_or_no",
+          "name": "sayNo",
+          "value": "$sayNo",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "OK, Let us stop here."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1529800002,
+  "fallbackIntent": false,
+  "events": []
+}

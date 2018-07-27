@@ -1,0 +1,48 @@
+{
+  "id": "27c0101f-2550-4573-bf82-30e682e36c82",
+  "parentId": "158ae3af-a0ee-437e-8898-9731463f610b",
+  "rootParentId": "158ae3af-a0ee-437e-8898-9731463f610b",
+  "name": "make_name_get_city_name - yes",
+  "auto": true,
+  "contexts": [
+    "make_name_get_city_name-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "make_name_get_city_name.make_name_get_city_name-yes",
+      "affectedContexts": [
+        {
+          "name": "make_name_get_city_name",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "c8e5d0a1-271a-4f33-b13c-759085258474",
+          "required": false,
+          "dataType": "@yes_or_no",
+          "name": "sayYes",
+          "value": "$sayYes",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "OK, Let us try this one more time.! \nTell me Your Name and Favourite City in the World...!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530229686,
+  "fallbackIntent": false,
+  "events": []
+}

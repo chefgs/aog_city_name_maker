@@ -1,0 +1,58 @@
+[
+  {
+    "id": "9b508e4c-3003-434d-b51f-892f0b0b38b6",
+    "data": [
+      {
+        "text": "not really",
+        "alias": "sayNo",
+        "meta": "@yes_or_no",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529800002
+  },
+  {
+    "id": "1e4aa754-9a6e-4716-a2f9-fee1b12d41cb",
+    "data": [
+      {
+        "text": "no",
+        "alias": "sayNo",
+        "meta": "@yes_or_no",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1529800002
+  },
+  {
+    "id": "d9556025-9e58-44c3-9dfd-da9007f7623c",
+    "data": [
+      {
+        "text": "I don\u0027t think so",
+        "alias": "sayNo",
+        "meta": "@yes_or_no",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529800002
+  },
+  {
+    "id": "6e4a01ae-c1f7-4375-8155-e26ce5fdf915",
+    "data": [
+      {
+        "text": "don\u0027t do it",
+        "alias": "sayNo",
+        "meta": "@yes_or_no",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529800002
+  }
+]

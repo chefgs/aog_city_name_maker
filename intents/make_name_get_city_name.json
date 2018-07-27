@@ -1,0 +1,64 @@
+{
+  "id": "158ae3af-a0ee-437e-8898-9731463f610b",
+  "name": "make_name_get_city_name",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.get_name_city_name",
+      "affectedContexts": [
+        {
+          "name": "make_name_get_city_name-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "74acee7f-3811-4204-bb29-b04d613f5650",
+          "required": true,
+          "dataType": "@sys.geo-city",
+          "name": "cityName",
+          "value": "$cityName",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What\u0027s your favourite city?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "73ab7f3e-1ffd-4b4f-b6ec-6edb22eec1da",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "firstName",
+          "value": "$firstName",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Your name can be called as $cityName $firstName .! Do you want to play this again?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530206894,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "get_name_city_name"
+    }
+  ]
+}

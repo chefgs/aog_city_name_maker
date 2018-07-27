@@ -1,0 +1,58 @@
+[
+  {
+    "id": "9bedd10b-73cf-412a-bbe4-30fc94822bfe",
+    "data": [
+      {
+        "text": "okay",
+        "alias": "sayYes",
+        "meta": "@yes_or_no",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529799982
+  },
+  {
+    "id": "ad49dff1-36f4-4fed-a546-c90cf9a28a76",
+    "data": [
+      {
+        "text": "ok",
+        "alias": "sayYes",
+        "meta": "@yes_or_no",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529799982
+  },
+  {
+    "id": "b7f4a20d-5708-4f74-bee2-953f30338506",
+    "data": [
+      {
+        "text": "yes",
+        "alias": "sayYes",
+        "meta": "@yes_or_no",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529799982
+  },
+  {
+    "id": "9baa6af0-c88d-4de8-8597-3d4c7adcaa63",
+    "data": [
+      {
+        "text": "sure",
+        "alias": "sayYes",
+        "meta": "@yes_or_no",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1529799982
+  }
+]

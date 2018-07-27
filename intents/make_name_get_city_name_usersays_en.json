@@ -1,0 +1,226 @@
+[
+  {
+    "id": "d1fc8e32-4798-49b7-8bba-555574ffd2d8",
+    "data": [
+      {
+        "text": "Am ",
+        "userDefined": false
+      },
+      {
+        "text": "Edward",
+        "alias": "firstName",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " my favourite city is ",
+        "userDefined": false
+      },
+      {
+        "text": "London",
+        "alias": "cityName",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529801682
+  },
+  {
+    "id": "1ca42922-c617-41e9-a14e-f8f6364654fe",
+    "data": [
+      {
+        "text": "I\u0027m ",
+        "userDefined": false
+      },
+      {
+        "text": "Robert",
+        "alias": "firstName",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " and I like ",
+        "userDefined": false
+      },
+      {
+        "text": "Chennai",
+        "alias": "cityName",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      },
+      {
+        "text": " city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529801682
+  },
+  {
+    "id": "d92db451-50d6-44dc-b13e-e12b283960e5",
+    "data": [
+      {
+        "text": "Chrisn",
+        "alias": "firstName",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "Sydney",
+        "alias": "cityName",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529801682
+  },
+  {
+    "id": "61a5b1bb-adf7-464f-8a4a-47629d6278ac",
+    "data": [
+      {
+        "text": "I\u0027m ",
+        "userDefined": false
+      },
+      {
+        "text": "Billy",
+        "alias": "firstName",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " and I like ",
+        "userDefined": false
+      },
+      {
+        "text": "Chicago",
+        "alias": "cityName",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529801682
+  },
+  {
+    "id": "21fe4dec-5a53-46a0-9e18-f227e338edae",
+    "data": [
+      {
+        "text": "My name is ",
+        "userDefined": false
+      },
+      {
+        "text": "John",
+        "alias": "firstName",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " and my favourite city is ",
+        "userDefined": false
+      },
+      {
+        "text": "Singapore",
+        "alias": "cityName",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529801682
+  },
+  {
+    "id": "1819f1ee-b396-4b09-8157-97c240e5b972",
+    "data": [
+      {
+        "text": "Am ",
+        "userDefined": false
+      },
+      {
+        "text": "Edward",
+        "alias": "firstName",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " and my favourite city is ",
+        "userDefined": false
+      },
+      {
+        "text": "London",
+        "alias": "cityName",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529801682
+  },
+  {
+    "id": "d08d56ae-3ce5-4bff-a5f1-a4f7eaa00fc5",
+    "data": [
+      {
+        "text": "Am ",
+        "userDefined": false
+      },
+      {
+        "text": "Johan",
+        "alias": "firstName",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " and I like ",
+        "userDefined": false
+      },
+      {
+        "text": "Tokyo",
+        "alias": "cityName",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529801682
+  },
+  {
+    "id": "70766fa2-c037-4687-8f46-b4aa867eb538",
+    "data": [
+      {
+        "text": "I\u0027m ",
+        "userDefined": false
+      },
+      {
+        "text": "John",
+        "alias": "firstName",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " I like ",
+        "userDefined": false
+      },
+      {
+        "text": "Paris",
+        "alias": "cityName",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529801682
+  }
+]
