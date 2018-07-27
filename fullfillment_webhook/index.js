@@ -12,8 +12,7 @@ const app = dialogflow({debug: true});
 app.intent('Default Welcome Intent', (conv) => {
   conv.ask('Hello! Welcome to Favourite City Name Maker, Let us get started..! Tell me your Name and Favourite City in the World...!');
 });
-// Handle the Dialogflow intent named 'favorite color'.
-// The intent collects a parameter named 'color'.
+// Handle the Dialogflow custom intent named 'make_name_get_city_name'.
 app.intent('make_name_get_city_name', (conv, {firstName, cityName}) => {
     conv.ask('Your name can be called as ' + cityName + ' ' + firstName + '.! Do you want to play this again?');
 });
