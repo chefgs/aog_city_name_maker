@@ -7,7 +7,7 @@ This project has been created for developers, interested to getting started with
 Intructions to use the repo
 </h2>
 <p><br>
-1. Users can download the source code as zip<br>
+  1. Users can download the source code as zip from <a href="https://github.com/chefgs/aog_city_name_maker/archive/master.zip">here</a><br>
   or <br> 
   Install <a href="https://git-scm.com/downloads">Git Bash for Windows</a> and use below commands to checkout code<br>
 2. Use git command to checkout the code<br>
@@ -44,6 +44,16 @@ https://dialogflow.com/docs/agents<br>
 
 Dialogflow Fullfillment for Google Actions<br>
 https://dialogflow.com/docs/getting-started/integrate-services-actions-on-google<br>
-Source files are available in "fulfillment_webhook" Directory
+Use source files available in "fulfillment_webhook" Directory
 </p>
 
+
+<h2>
+  Quick start tips
+</h2>
+<p>
+  Developers who has experience in Dialoagflow can download the "aog_city_name_maker.zip" file.<br>
+  Create an agent with the preferred name.<br>
+  Export the aog_city_name_maker.zip file as instant agent from "Dialoagflow agent settings".<br>
+  Once the agent is created fullfilment webhook can be enabled and use the files available in "fulfillment_webhook" Directory to add firebase code.<br>
+  </p>
